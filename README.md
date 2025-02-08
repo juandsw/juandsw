@@ -20,7 +20,6 @@
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 </p>
 
@@ -36,5 +35,5 @@
 
 ### 🌍 **Where to Find Me**
 📌 **GitHub:** [github.com/juandsw](https://github.com/juandsw)  
-📌 **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile) 
+📌 **LinkedIn:** [https://www.linkedin.com/in/juan-david-gallego-hernandez-57a033330/) 
 ---
