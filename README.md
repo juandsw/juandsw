@@ -33,7 +33,6 @@
 
 ---
 
-### 🌍 **Where to Find Me**
-📌 **GitHub:** [github.com/juandsw](https://github.com/juandsw)  
+### 🌍 **Where to Find Me**  
 📌 **LinkedIn:** [https://www.linkedin.com/in/juan-david-gallego-hernandez-57a033330/) 
 ---
