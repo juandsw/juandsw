@@ -32,7 +32,3 @@
 </p>
 
 ---
-
-### 🌍 **Where to Find Me**  
-📌 **LinkedIn:** [https://www.linkedin.com/in/juan-david-gallego-hernandez-57a033330/) 
----
