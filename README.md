@@ -8,7 +8,7 @@
 ---
 
 ### 🚀 **About Me**
-- ⚡ 7th-semester **Systems engineering student.**
+- ⚡ 8th-semester **Systems engineering student.**
 - 📚 Passionate about **C++, Java, Spring Boot, and Angular**
 - 🔥 Interested in **Security, APIs, Software Architecture and Software Development**    
 
@@ -21,14 +21,6 @@
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
   <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-</p>
-
----
-
-### 📊 **GitHub Stats**
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=juandsw&show_icons=true&theme=radical" width="400"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=juandsw&theme=radical" width="400"/>
 </p>
 
 ---
