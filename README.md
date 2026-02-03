@@ -8,7 +8,7 @@
 ---
 
 ### 🚀 **About Me**
-- ⚡ 8th-semester **Systems engineering student.**
+- ⚡ **Systems engineering student.**
 - 📚 Passionate about **C++, Java, Spring Boot, and Angular**
 - 🔥 Interested in **Security, APIs, Software Architecture and Software Development**    
 
